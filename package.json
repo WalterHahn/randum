@@ -10,6 +10,9 @@
   "scripts": {
     "test": "jest"
   },
+  "keywords": [
+    "random"
+  ],
   "author": "Walter F. Hahn",
   "license": "ISC",
   "devDependencies": {
