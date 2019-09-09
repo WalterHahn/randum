@@ -1,0 +1,14 @@
+{
+  "name": "randum",
+  "version": "0.0.1",
+  "description": "Stores parameters used to randomly generate items.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Walter F. Hahn",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
