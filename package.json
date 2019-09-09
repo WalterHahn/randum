@@ -2,6 +2,10 @@
   "name": "randum",
   "version": "0.0.1",
   "description": "Stores parameters used to randomly generate items.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WalterHahn/randum"
+  },
   "main": "index.js",
   "scripts": {
     "test": "jest"
