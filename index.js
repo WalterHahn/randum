@@ -42,7 +42,7 @@ function randomInt(min, max) {
  * @return {number}
  */
 function randomFloat(min, max, precision) {
-  return (Math.random() * (max - min) + min).toFixed(precision);
+  return parseFloat((Math.random() * (max - min) + min).toFixed(precision));
 }
 
 /**
