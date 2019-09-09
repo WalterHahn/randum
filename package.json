@@ -1,6 +1,6 @@
 {
   "name": "randum",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Stores parameters used to randomly generate items.",
   "repository": {
     "type": "git",
