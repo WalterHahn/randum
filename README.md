@@ -2,6 +2,12 @@
 
 Stores parameters used to randomly generate items.
 
+## Installation
+
+```javascript
+npm install randum
+```
+
 ## Usage
 
 ### Random Integers
